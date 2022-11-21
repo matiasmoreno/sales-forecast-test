@@ -15,5 +15,5 @@
 * Libraries: `pip install -r requirements.txt`
 
 ### Resultados
-* Archivo csv en `output_data/results_7_weeks`
+* Archivo csv en `output_data/results_7_weeks.csv`
 * Jupiter notebooks EDA y forecast
