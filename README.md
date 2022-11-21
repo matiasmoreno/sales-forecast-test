@@ -13,3 +13,7 @@
 ### Requirements
 * `Python 3.11`
 * Libraries: `pip install -r requirements.txt`
+
+### Resultados
+* Archivo csv en `output_data/results_7_weeks`
+* Jupiter notebooks EDA y forecast
